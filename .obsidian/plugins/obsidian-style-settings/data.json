@@ -1,0 +1,16 @@
+{
+  "minimal-advanced@@hide-markdown": false,
+  "minimal-style@@bold-modifier": 200,
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-red",
+  "anuppuccin-theme-settings@@ctp-custom-red@@dark": "#C20C0C",
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-light": true,
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-dark": true,
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-amoled": true,
+  "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-nord-light",
+  "anuppuccin-theme-settings@@anp-colorful-frame": true,
+  "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-light": true,
+  "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-dark": true,
+  "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-default-rainbow",
+  "anuppuccin-theme-settings@@anp-disable-newtab-align": true
+}

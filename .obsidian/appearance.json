@@ -1,0 +1,9 @@
+{
+  "accentColor": "#694baf",
+  "cssTheme": "AnuPpuccin",
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "extended-colorschemes",
+    "my"
+  ]
+}

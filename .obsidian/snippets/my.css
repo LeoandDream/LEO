@@ -1,0 +1,22 @@
+/* 调整编辑模式的左边距 */
+.markdown-source-view .cm-content {
+    padding-left: 0 !important;
+    /* 强制文本靠近左边框 */
+    margin-left: 0 !important;
+}
+
+/* 调整预览模式的左边距 */
+.markdown-preview-view {
+    padding-left: 0 !important;
+    /* 强制文本靠近左边框 */
+    margin-left: 0 !important;
+}
+
+/* 取消容器居中 */
+.markdown-source-view,
+.markdown-preview-view {
+    max-width: 100% !important;
+    /* 取消最大宽度限制 */
+    margin: 0 !important;
+    /* 取消自动居中 */
+}
