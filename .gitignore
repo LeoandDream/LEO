@@ -1,0 +1,20 @@
+# Operating system
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Obsidian local workspace state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian cache and transient files
+.obsidian/cache/
+.obsidian/cache
+.obsidian/workspace
+.trash/
+
+# Temporary editor files
+*.tmp
+*.temp
+*.bak
+~$*
