@@ -1,5 +1,8 @@
 [
   "obsidian-minimal-settings",
   "obsidian-style-settings",
-  "dataview"
+  "dataview",
+  "image-tools",
+  "editing-toolbar",
+  "slash-cmd"
 ]
